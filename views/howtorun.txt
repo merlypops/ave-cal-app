@@ -1,0 +1,17 @@
+root folder path:
+* npm install
+* pip install flask
+* pip install pymongo
+* pip install mysql-connector-python
+
+database prep:
+* install mysql and mongodb
+* create db in mysql
+* create database numbers;
+* create table nums(numbers int(255));
+
+vs code:
+* python3 anal*.py
+* node index.js
+
+localhost:3001/
